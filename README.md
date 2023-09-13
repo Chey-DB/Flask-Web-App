@@ -5,8 +5,8 @@
 
 ## Setup & Installation
 
-`git clone <repo-url`
-`pip install -r requirements.txt`
+1. `git clone <repo-url`
+2. `pip install -r requirements.txt`
 
 ## Running The App
 `python3 main.py`
