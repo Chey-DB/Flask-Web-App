@@ -5,7 +5,7 @@
 
 ## Setup & Installation
 
-1. `git clone <repo-url`
+1. `git clone <repo-url>`
 2. `pip install -r requirements.txt`
 
 ## Running The App
